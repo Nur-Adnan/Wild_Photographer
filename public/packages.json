@@ -1,0 +1,61 @@
+[
+  {
+    "id": "01",
+    "category": "Premium",
+    "name": "White Tiger",
+    "price": 150,
+    "description": "You ask 'Are you a man or a demon?' Neither, I say. I have woken up, and the rest of you are sleeping, and that is the only difference between us.― Aravind Adiga, The White Tiger",
+    "ratings": 4.5,
+    "img": "https://images.wallpaperscraft.com/image/single/tiger_albino_lie_muzzle_85987_800x600.jpg"
+  },
+
+  {
+    "id": "02",
+    "category": "Premium",
+    "name": "Lion",
+    "price": 300,
+    "description": "Courage is poorly housed that dwells in numbers; the lion never counts the herd that are about him, nor weighs how many flocks he has to scatter.",
+    "ratings": 4.6,
+    "img": "https://images.wallpaperscraft.com/image/single/lion_animal_predator_202023_800x600.jpg"
+  },
+
+  {
+    "id": "03",
+    "category": "Premium",
+    "name": "Leopard",
+    "price": 400,
+    "description": "You don't see sick animals in the wild. You don't see lame animals in the wild, and its all because of the predator: the lion, the tiger, the leopard, all the cats.- Tippi Hedren",
+    "ratings": 4.1,
+    "img": "https://images.wallpaperscraft.com/image/single/leopard_snout_snow_sadness_anger_11454_800x600.jpg"
+  },
+
+  {
+    "id": "04",
+    "category": "Premium",
+    "name": "Cat",
+    "price": 250,
+    "description": " 'As anyone who has ever been around a cat for any length of time well knows, cats have enormous patience with the limitations of the humankind.' – Cleveland Amory",
+    "ratings": 4.7,
+    "img": "https://images.wallpaperscraft.com/image/single/cat_computer_curiosity_56487_800x600.jpg"
+  },
+
+  {
+    "id": "05",
+    "category": "Premium",
+    "name": "Wolf",
+    "price": 400,
+    "description": " “That night the wind was howling almost like a wolf and there were some real wolves off to the west giving it lessons.” – George R.R. Martin",
+    "ratings": 4.9,
+    "img": "https://images.wallpaperscraft.com/image/single/dog_protruding_tongue_snow_134188_800x600.jpg"
+  },
+
+  {
+    "id": "06",
+    "category": "Premium",
+    "name": "Fox",
+    "price": 900,
+    "description": " “Be like the fox who makes more tracks than necessary, some in the wrong direction. Practice resurrection.” ",
+    "ratings": 4.8,
+    "img": "https://images.wallpaperscraft.com/image/single/fox_forest_grass_117190_800x600.jpg"
+  }
+]

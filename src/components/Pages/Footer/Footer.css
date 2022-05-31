@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap");
+.footer {
+  background: rgb(255, 255, 255);
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  padding-top: 50px;
+}
+.footer .social-media {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 30px;
+}
+
+.footer .Owner {
+  padding: 2.5rem 1rem;
+  color: rgb(34, 29, 29);
+  font-weight: 500;
+  font-size: 2rem;
+  font-family: "Beau Rivage", cursive;
+}
+.btn {
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+}

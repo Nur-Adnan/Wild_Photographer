@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+.nav_link Link {
+  text-decoration: none;
+}
+.signOut {
+  background-color: yellow;
+  color: black;
+}
+.head-font {
+  font-family: "Raleway", sans-serif;
+}
+.link-font {
+  font-family: "Inter", sans-serif;
+}

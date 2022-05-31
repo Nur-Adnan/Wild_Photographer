@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Sofia&display=swap");
+
+.serv_cont {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 30px;
+  margin: 30px;
+}
+hr {
+  width: 15%;
+  margin: auto;
+  margin-top: 20px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 2px;
+  margin-bottom: 65px;
+}
+h1.head-st {
+  font-family: "Sofia", cursive;
+  font-size: 65px;
+  color: black;
+  font-weight: 500;
+  margin-top: 50px;
+}

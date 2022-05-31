@@ -1,0 +1,86 @@
+.form_container {
+  width: 600px;
+  height: 800px;
+  border-radius: 8px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  margin-top: 80px;
+  border: 1px solid #95a0a7;
+}
+.form_title {
+  font-size: 35px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.0025em;
+  color: #2a414f;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  padding-top: 25px;
+}
+.input_group input {
+  width: 400px;
+  border: 1px solid #95a0a7;
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-size: 24px;
+  margin: auto;
+  height: 45px;
+}
+.input_group {
+  margin-bottom: 20px;
+}
+.input_group label {
+  display: flex;
+}
+.form_submit {
+  background: #4c7eebc5;
+  color: white;
+  width: 415px;
+  height: 55px;
+  font-size: 20px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+.form_submit:hover {
+  background-color: rgb(201, 190, 153);
+}
+.form_submit_google {
+  width: 415px;
+  height: 55px;
+  font-size: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: auto;
+  transition: 0.5s ease-in-out;
+  padding-bottom: 48px;
+}
+.form_submit_google:hover {
+  background-color: rgb(201, 190, 153);
+}
+.form_link {
+  color: #dca553;
+  text-decoration: none;
+  font-size: 15px;
+}
+.form_text {
+  text-align: center;
+}
+.divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 0;
+}
+p.or {
+  margin-right: 25px;
+  margin-top: 10px;
+}
+.divider_line {
+  width: 150px;
+  height: 2px;
+  margin: 0 10px;
+  background-color: rgba(149, 160, 167, 1);
+}
