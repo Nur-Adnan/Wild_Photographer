@@ -2,6 +2,14 @@
 
 ## Live site link:"https://assignment-10-4cc4e.firebaseapp.com/"
 
+
+# Functions and Structure of the Application:
+
+- The application consists of a single page. This website contains product reviews. There are 5 routes.
+- Dashboard route is created with a few recharts
+- Firebase authentication for login method.
+
+
 ### Website Fetures:
 
 <ul>
